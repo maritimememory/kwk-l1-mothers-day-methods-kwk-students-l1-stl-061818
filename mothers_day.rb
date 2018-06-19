@@ -3,5 +3,5 @@ def method_one(mothers_day = "Happy Mother's Day")
   puts "#{mothers_day}, Mom!"
 end
 
-method_one
+def method_two()
 
